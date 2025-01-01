@@ -73,10 +73,100 @@ Colorhunt 🎨: For selecting appealing color schemes.
 
 
 
+## Data Modeling
+
+Here you can check the Data Model which is used for this project.
+
+
+Output :![image](https://github.com/user-attachments/assets/04279661-ee8a-4688-bc60-e03f017609f6)
+
+
+# Dashboard Overview:
+
+
+## Home Page:
+
+![image](https://github.com/user-attachments/assets/ddc63787-8a40-47a8-b284-62a5a11d9072)
+
+
+## Revenue Page:
+
+This page provides insights into revenue trends, showcasing key metrics such as Total Revenue, Total Trips, Average Fare per Trip, Average Fare per Kilometer, and Total Passengers. It highlights month-wise revenue trends, revenue distribution across cities, trip and revenue contributions by city, revenue patterns by week type, and a comparison of revenue from new and repeated trips.
+
+![image](https://github.com/user-attachments/assets/6803373a-ce3a-4781-a9cf-c8f373387987)
+
+## Passenger page:
+
+This page provides an in-depth analysis of passenger metrics, including Total Passengers, New Passengers, Repeated Passengers, Average Passenger Rating, and Average Driver Rating. It showcases city-wise distribution of new and repeated passengers, comparative charts for driver and passenger ratings, frequency analysis by city, and month- and city-wise passenger growth trends.
+
+![image](https://github.com/user-attachments/assets/90db77ec-2a0c-4497-b83a-4fa783ac4345)
+
+
+## Performance page:      
+
+This page provides key metrics such as Average Revenue, Maximum Revenue, Minimum Revenue, Average Passenger Rating, and Average Driver Rating. It includes tables comparing Total Trips with Target Trips and analyzing the percentage of targets achieved. Insights are presented for New Passengers and Repeat Passengers, along with comparisons of Average Passenger Ratings against Target Ratings."
+
+![image](https://github.com/user-attachments/assets/63e2f5d3-6f41-4150-9377-9ace47bc5b6b)
+
+
+## Target page: 
+
+This page highlights key performance metrics with charts showcasing the top three most-traveled cities and the bottom three least-traveled cities. It provides insights into RPR growth by identifying the top two and bottom two cities. Additional analysis includes new vs. repeated passengers across cities with RPR growth trends, peak vs. low-demand months by city, weekend vs. weekday trip patterns, and fare efficiency comparisons across cities.
+
+![image](https://github.com/user-attachments/assets/6166ef94-e020-4990-8c50-7c505ebd4104)
+
+
+# Primary Analysis:
+
+Identify the top 3 and bottom 3 cities by total trips over the entire analysis period.
+
+
+![image](https://github.com/user-attachments/assets/ff74b4b1-a7d4-4eb7-9e09-ab03687a2fd0)
+
+
+Calculate the average fare per trip for each city and compare it with the city's average trip distance. Identify the cities with the highest and lowest average fare per trip to assess pricing efficiency across locations.
+
+![image](https://github.com/user-attachments/assets/ba8649b4-09a5-4d1c-b7ba-7702f23bfe7b)
+
+Calculate the average passenger and driver ratings for each city, segmented by passenger type (new vs. repeat). Identify cities with the highest and lowest average ratings.
+
+![image](https://github.com/user-attachments/assets/bf9ec748-8c57-4865-992e-06c0edc29ba9)
+
+
+For each city, identify the month with the highest total trips (peak demand) and the month with the lowest total trips (low demand). This analysis will help Goodcabs understand seasonal patterns and adjust resources accordingly.
+
+![image](https://github.com/user-attachments/assets/e7511e65-b519-4557-ad31-189fb722d1ff)
+
+
+Compare the total trips taken on weekdays versus weekends for each city over the six-month period. Identify cities with a strong preference for either weekend or weekday trips to understand demand variations.
+
+
+![image](https://github.com/user-attachments/assets/11233e18-2f18-4f95-8738-5859f35bc14b)
+
+
+Analyse the frequency of trips taken by repeat passengers in each city (e.g., % of repeat passengers taking 2 trips, 3 trips, etc.). Identify which cities contribute most to higher trip frequencies among repeat passengers, and examine if there are distinguishable patterns between tourism-focused and business-focused cities.
+
+![image](https://github.com/user-attachments/assets/b5b054b4-d1ea-40f9-9883-34dffe3af9a2)
+
+
+For each city, evaluate monthly performance against targets for total trips, new passengers, and average passenger ratings from targets_db. Determine if each metric met, exceeded, or missed the target, and calculate the percentage difference. Identify any consistent patterns in target achievement, particularly across tourism versus business-focused cities.
+
+
+![image](https://github.com/user-attachments/assets/a02478ce-077a-4dd7-ad4b-ae3f98a99050)
+
+Analyse the Repeat Passenger Rate (RPR%) for each city across the six-month period. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates.
+
+
+Similarly, analyse the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates. This will help to pinpoint any seasonal patterns or months with higher repeat passenger loyalty.
 
 
 
-Output :![image](https://github.com/user-attachments/assets/9626b2f8-f961-4bc4-b792-8965355aea63)
+![image](https://github.com/user-attachments/assets/f890bbc7-232e-4711-9699-25b78b4435f0)
+
+
+![image](https://github.com/user-attachments/assets/935ea9a8-d283-4c44-aa0c-df4af2af9e37)
+
+
 
 
 
