@@ -133,6 +133,10 @@ Calculate the average passenger and driver ratings for each city, segmented by p
 ![image](https://github.com/user-attachments/assets/bf9ec748-8c57-4865-992e-06c0edc29ba9)
 
 
+![image](https://github.com/user-attachments/assets/3e53bb51-40a9-4e5a-872e-fb2af187fbf3)
+
+
+
 For each city, identify the month with the highest total trips (peak demand) and the month with the lowest total trips (low demand). This analysis will help Goodcabs understand seasonal patterns and adjust resources accordingly.
 
 ![image](https://github.com/user-attachments/assets/e7511e65-b519-4557-ad31-189fb722d1ff)
