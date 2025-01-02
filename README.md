@@ -6,7 +6,14 @@
 
 Welcome to my journey of completing Codebasics Resume Project Challenge #13, where I was tasked with analyzing and providing strategic insights to Goodcabs, a rapidly growing cab service in India’s tier-2 cities. Through this project, I dove deep into the Transportation & Mobility sector, focusing on enhancing growth and improving passenger satisfaction using data.
 
-Goodcabs, operating in 10 tier-2 cities, supports local drivers and aims to offer better experiences to passengers. With ambitious performance goals for 2024, the company needed immediate insights to drive data-driven decision-making and boost performance. 
+Goodcabs, operating in 10 tier-2 cities, supports local drivers and aims to offer better experiences to passengers. With ambitious performance goals for 2024, the company needed immediate insights to drive data-driven 
+decision-making and boost performance. 
+
+
+🔗 Live Dashboard: https://shorturl.at/iS66W
+🎥 Video Presentation: 
+
+
 
 ## 📜 Problem Statement
 
